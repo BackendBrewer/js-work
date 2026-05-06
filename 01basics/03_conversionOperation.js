@@ -31,7 +31,7 @@ console.log(negVal);
 // console.log(2%3);
 
 console.log(+true) // gives output 1
-console.log(true+) // gives error
+// console.log(true+) // gives error
 console.log(+""); // gives error
 
 let num1, num2, num3
